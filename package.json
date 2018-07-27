@@ -1,0 +1,26 @@
+{
+  "name": "express-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Siraj Abbas",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "ioredis": "^3.2.2",
+    "jsonwebtoken": "^8.3.0",
+    "moment": "^2.22.2",
+    "mongodb": "^2.2.33",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "uuid": "^3.3.2",
+    "winston": "^3.0.0"
+  }
+}
